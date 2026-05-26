@@ -1,1 +1,1 @@
-informatika
+# informatika
